@@ -1,0 +1,21 @@
+.menu
+{
+    border: 1px red solid;
+}
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    background-color:blue;
+    margin-top: 0%;
+    /* padding: 0%; */
+}
+.menu ul li{
+    padding: 5px;
+    text-transform: capitalize;
+    color: aliceblue;
+    border-right: 1px solid aliceblue;
+}
+.ml{
+    margin-left: 0%;
+    /* padding-left: 0%; */
+}
