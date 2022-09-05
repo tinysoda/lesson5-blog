@@ -1,0 +1,25 @@
+.main h2{
+    text-transform: capitalize;
+}
+.info
+{
+    display: flex;
+}
+.info ul
+{
+    list-style-type: none;
+    text-transform: capitalize;
+    /* border: solid red 2px; */
+    padding-left: 0%;
+}
+.title
+{
+    display: flex;
+    text-align: right;
+}
+input,select
+{
+    /* border: solid greenyellow 2px; */
+    height:12px;
+    margin-left: 15%;
+}
